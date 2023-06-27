@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    background-image: url(./login/estrellas\ contactos\ login.jpg);
+    color: white;
+    text-align: center;
+
+
+}
